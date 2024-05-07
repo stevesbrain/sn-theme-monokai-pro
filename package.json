@@ -1,0 +1,12 @@
+{
+  "name": "sn-theme-monokai-pro",
+  "version": "1.0.2",
+  "main": "dist/dist.css",
+  "sn": {
+    "main": "dist/dist.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stevesbrain/sn-theme-monokai-pro.git"
+  }
+}
