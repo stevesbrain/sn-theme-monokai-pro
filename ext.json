@@ -1,0 +1,19 @@
+{
+"identifier": "org.github.stevesbrain.sn-theme-monokai-pro",
+"name": "Monokai Pro",
+"content_type": "SN|Theme",
+"area": "themes",
+"version": "1.0.0",
+"description": "A theme based on the Monokai Pro colour scheme",
+"url": "https://github.com/stevesbrain/sn-theme-monokai-pro@1.0.0/dist/dist.css",
+"download_url": "https://github.com/stevesbrain/sn-theme-monokai-pro/archive/refs/tags/1.0.0.zip",
+"latest_url": "https://github.com/stevesbrian/sn-theme-monokai-pro@master/ext.json",
+"marketing_url": "https://github.com/stevesbrain/sn-theme-monokai-pro/",
+"thumbnail_url": "https://github.com/stevesbrain/sn-theme-monokai-pro#preview",
+"dock_icon": {
+    "type": "circle",
+    "background_color": "#a78bfaff",
+    "foreground_color": "#a78bfaff",
+    "border_color": "#a78bfaff"
+  }
+}
